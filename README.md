@@ -7,3 +7,5 @@
   <li>Eliminar producto</li>
   <li>Consultar producto</li>
 </body>
+
+Para ejecutar el codigo, debes poner ```npm install java```
