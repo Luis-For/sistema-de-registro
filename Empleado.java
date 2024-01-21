@@ -4,4 +4,6 @@ public interface Empleados {
     java.lang.String getTareas();
 
     java.lang.String getInforme();
+
+    String getNombre();
 }
